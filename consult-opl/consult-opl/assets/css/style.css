@@ -46,6 +46,11 @@ body {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
+.sub{
+  font-size: 20px;
+  justify-content:flex-end;
+}
+
 img {
   max-width: 100%; }
 
